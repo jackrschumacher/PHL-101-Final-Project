@@ -7,7 +7,7 @@ title = 'Space Art'
   defaultTheme = "auto"
   description = "Space Art"
   title = "Space Art"
-  favicon = "favicon.ico"
+  favicon = "favicon.svg"
   [params.author]
     email = "jackrschumacher@gmail.com"
     name = "Jack Schumacher"
