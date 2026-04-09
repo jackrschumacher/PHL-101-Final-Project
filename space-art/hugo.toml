@@ -14,10 +14,10 @@ title = 'Space Art'
   [params.socialIcons]
     # facebook = "https://www.facebook.com/"
     # instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    github = "https://github.com/jackrschumacher/PHL-101-Final-Project"
     # youtube = "https://www.youtube.com/"
     email = "mailto:jackrschumacher@gmail.com"
-    #website = "https://example.com"
+    website = "https://www.jackrschumacher.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
     #mixcloud = "https://example.com"
@@ -40,7 +40,9 @@ title = 'Space Art'
   [imaging.exif]
     disableDate = false
     disableLatLong = true
-    includeFields = "ImageDescription|Orientation"
+    # includeFields = "ImageDescription|Orientation"
+
+
 
 [module]
   [[module.imports]]
