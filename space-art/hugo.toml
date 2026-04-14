@@ -1,12 +1,12 @@
 baseURL = 'https://space.jackrschumacher.com/'
 locale = 'en-us'
-title = 'Space Art'
+title = 'Space Art Gallery'
 
 
 [params]
   defaultTheme = "auto"
-  description = "Space Art"
-  title = "Space Art"
+  description = "Space Art Gallery"
+  title = "Space Art Gallery"
   favicon = "favicon.svg"
   [params.author]
     email = "jackrschumacher@gmail.com"
