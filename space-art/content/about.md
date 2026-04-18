@@ -17,12 +17,16 @@ This site is powered by [Hugo](https://gohugo.io) and uses the [Hugo Gallery](ht
 
 This site contains images sourced from the [NASA Image Gallery](https://www.nasa.gov/gallery/). All of these images are public domain.
 
-Sources Per collection:
 
-Earth:
 
-- [Journey To the Moon](https://www.nasa.gov/gallery/journey-to-the-moon/)
+### Works Cited:
 
-Moon:
+*Artemis II Journey to the Moon - NASA*. https://www.nasa.gov/gallery/journey-to-the-moon/. Accessed 17 Apr. 2026.
 
-- [Artemis II Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)
+
+
+*Artemis II Lunar Flyby - NASA*. https://www.nasa.gov/gallery/lunar-flyby/. Accessed 17 Apr. 2026.
+
+
+
+*Nanna/Suen/Sin (God)*. Text. CHECK with Nicole***, https://oracc.museum.upenn.edu/amgg/listofdeities/nannasuen/. Accessed 14 Apr. 2026.
