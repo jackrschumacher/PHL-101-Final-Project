@@ -26,7 +26,7 @@ This site is powered by [Hugo](https://gohugo.io) and uses the [Hugo Gallery](ht
 
 #### **Image Sources**
 
-This site contains images sourced from the [NASA Image Gallery](https://www.nasa.gov/gallery/). All of these images are public domain.
+This site contains images sourced from the [NASA Image Gallery](https://www.nasa.gov/gallery/) or [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page). All of these images are public domain.
 
 
 
